@@ -28,10 +28,10 @@ Users should be able to:
 ### Screenshot
 
 ![desktop](./design/desktop-design.jpg)
-![desktop](./design/desktop-preview.jpg)
+![](./design/active-stats.jpg)
 ![mobile](./design/mobile-design.jpg)
 ![mobile](./design/mobile-menu.jpg)
-![](./design/active-stats.jpg)
+
 
 ### Links
 
