@@ -34,7 +34,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: [click here]([https://your-live-site-url.com](https://ayoub010001.github.io/News-Homepage/))
+- Live Site URL: [https://your-live-site-url.com](https://ayoub010001.github.io/News-Homepage/)
 
 ## My process
 
